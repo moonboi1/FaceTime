@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/moonboi1/Video-Conferencing-Project.git
+  git clone https://github.com/moonboi1/FaceTime.git
 ```
 
 Go to the project directory
