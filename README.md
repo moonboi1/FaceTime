@@ -37,7 +37,6 @@ After the above setup visit http://localhost:3030/ and the enjoy the project.
  - socket.io library
  - EJS
  - CSS
- - Heroku for hosting website
 
 
 
