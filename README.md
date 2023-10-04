@@ -11,7 +11,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Video-Conferencing-Project
+  cd Facetime
 ```
 
 Install dependencies
