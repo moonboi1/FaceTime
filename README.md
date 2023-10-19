@@ -40,9 +40,6 @@ After the above setup visit http://localhost:3030/ and the enjoy the project.
 
 
 
-## Screenshots
-
-
 ## Authors
 
 - [@moonboi1](https://www.github.com/moonboi1)
